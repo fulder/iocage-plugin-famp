@@ -1,4 +1,4 @@
-Iocage FAMP (FreeBSD, Apache, MySQL, PHP) plugin for freenas. 
+Iocage FAMP (FreeBSD Apache, MySQL, PHP) plugin for freenas. 
 
 
 # Testing manually
