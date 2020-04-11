@@ -1,3 +1,5 @@
+![famp icon](famp.png)
+
 Iocage FAMP (FreeBSD [Apache](https://httpd.apache.org/), [MySQL](https://www.mysql.com/), [PHP](https://www.php.net/)) plugin for freenas. 
 
 
