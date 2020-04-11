@@ -11,3 +11,9 @@ In freenas shell run:
 * `iocage fetch -P famp.json --name famp ip4_addr="<INTERFACE>|<IP>/<MASK>" vnet=off`
 
 where `<INTERFACE>` is the name of the ethernet interface and `<IP>/<MASK>` is a static IP address in local network range
+
+# Compability/Test matrix
+
+| FAMP  | Apache | MySQL  | PHP   | Working            |
+|-------|--------|--------|-------|--------------------|
+| 1.0.0 | 2.4.43 | 8.0.19 | 7.4.4 | :heavy_check_mark: |
