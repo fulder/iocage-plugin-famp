@@ -12,6 +12,7 @@ In freenas shell run:
 
 # Compability/Test matrix
 
-| FAMP  | Apache | MySQL  | PHP   | Status             |
-|-------|--------|--------|-------|--------------------|
-| 1.0.0 | 2.4.43 | 8.0.19 | 7.4.4 | :heavy_check_mark: |
+| FAMP  | FreeBSD | Apache | MySQL  | PHP    | Status             |
+|-------|---------|--------|--------|--------|--------------------|
+| 1.0.0 | 11.3    |2.4.43  | 8.0.19 | 7.4.4  | :heavy_check_mark: |
+| 1.0.1 | 12.1    |2.4.46  | 8.0.21 | 7.4.10 | :heavy_check_mark: |
